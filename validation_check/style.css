@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color:whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+
+}
+
+h1 {
+  color: rgb(46, 187, 46);
+  font-family: 'Secular One', sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  margin: 0 auto
+}
+
+label {
+  font-weight: bold;
+  
+}
+
+.hide {
+  display: none;
+}
+
+fieldset {
+  border: none;
+  margin: 0 auto;
+}
+input {
+  margin: 10px
+}
+
+button {
+  margin: 20px;
+  background-color: rgb(46, 187, 46);
+  border: none;
+  width: 25em;
+  height: 3em;
+  font-family: 'Secular One', sans-serif;
+  color: white;
+  font-size: 1em;
+}
+.textbox {
+  width: 29.5em;
+  height: 3em;
+}
+
+.red {
+  color: red
+}
+.green {
+  color: rgb(46, 187, 46)
+}
